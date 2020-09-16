@@ -1,0 +1,3 @@
+include ':resulthelperlib'
+include ':app'
+rootProject.name = "ActivityResultHelper"
