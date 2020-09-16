@@ -3,7 +3,7 @@
 
 ### 使用
 
-- 导入项目下的`resulthelperlib`到你的项目中或下载[resulthelperlib.aar](https://github.com/voisen/ActivityResultHelper/blob/master/aar/resulthelperlib.aar)
+- 导入项目下的`resulthelperlib`到你的项目中或下载[resulthelperlib.aar](https://github.com/voisen/ActivityResultHelper/blob/master/ActivityResultHelper/aar/resulthelperlib.aar)
 - 在`activity`中加入以下代码
 
 ````java
